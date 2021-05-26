@@ -1,0 +1,15 @@
+.goods-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.goods-item {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    flex-basis: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
